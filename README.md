@@ -78,15 +78,15 @@ This project uses the following open source packages:
 
 ## Advanced
 
-Access advanced registery file here →
+Access advanced registery file here → https://github.com/bytekov/registery/blob/main/advanced.md
 
 ## Learner
 
-Access learner registery file here →
+Access learner registery file here → https://github.com/bytekov/registery/blob/main/learner.md
 
 ## License
 
-MIT
+GNU public license
 
 ---
 
