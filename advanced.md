@@ -8,7 +8,7 @@
 <br>
 *4 Malou00 -  Kampala - html css js react native
 <br>
-*4 Kolozjnr - Abuja Nigeria PHP Laravel CSS BOOSTRAP JS JQUERY
+*5 Kolozjnr - Abuja Nigeria PHP Laravel CSS BOOSTRAP JS JQUERY
 <br>
-*5 Seema - Leribe   - Seema74r - html css js c/c++ PHP
+*6 Seema - Leribe   - Seema74r - html css js c/c++ PHP
 
